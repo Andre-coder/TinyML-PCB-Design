@@ -1,9 +1,10 @@
-![My Project Logo](2.PNG)
-
 # TinyML-PCB-Design
 Edge AI: Designed a Compact ESP32 + MPU PCB for TinyML Applications!
 
 # Compact ESP32 TinyML Development Board
+
+
+![My Project Logo](2.PNG)
 
 **Educational reference design** featuring ESP32 microcontroller, MPU (Motion Processing Unit), and Flash memory - optimized for TinyML applications. Designed in Altium with focus on minimal footprint.
 
