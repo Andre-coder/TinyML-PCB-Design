@@ -1,4 +1,4 @@
-![Logo](TinyML-PCB-Design
+![My Project Logo](TinyML-PCB-Design
 /2.png)
 
 # TinyML-PCB-Design
