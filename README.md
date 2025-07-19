@@ -1,5 +1,4 @@
-![My Project Logo](TinyML-PCB-Design
-/2.png)
+![My Project Logo](TinyML-PCB-Design/2.png)
 
 # TinyML-PCB-Design
 Edge AI: Designed a Compact ESP32 + MPU PCB for TinyML Applications!
